@@ -1,0 +1,41 @@
+input{
+  height:60px;
+  width: 300px;
+  border: 2px solid rgba(150, 185, 206, 0.782);
+}
+button{
+  background-color: rgb(137, 194, 226);
+  border: 2px solid rgba(128, 72, 192, 0.782);
+  padding: 10px;
+  width: 20vh;
+  font-weight: bolder;
+}
+.Heading{
+  color: rgb(127, 117, 214);
+}
+.States{
+  color: rgb(133, 23, 46);
+  margin: 0 575px 5px 0;
+}
+.card{
+  
+  padding: 10px;
+  border: 2px solid rgba(18, 19, 17, 0.782);
+  gap: 10px;
+  display: flex;
+  row-gap: 10px;
+}
+.content{
+  font-size: 30px;
+  color:blue;
+}
+.btn1{
+
+  background-color:rgb(161, 199, 241) ;
+  height: 40px;
+  font-size: small;
+}
+.btn{
+  height: 40px;
+}
+/* completed */
